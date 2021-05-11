@@ -1,11 +1,11 @@
 # my-object
 毕业设计
 
-#backend
+#backend服务端
 #npm install
 #npm start
 
-#frontend
+#frontend前端
 #yarn
 #yarn serve
 
