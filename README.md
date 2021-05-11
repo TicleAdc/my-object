@@ -5,6 +5,6 @@
 #npm install
 #npm start
 
-#front
+#frontend
 #yarn
 #yarn serve
